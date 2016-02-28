@@ -1,0 +1,6 @@
+[package]
+name = "raymarch_rs"
+version = "0.1.0"
+authors = ["kloumpt <serge.molina+git@kloumpt.net>"]
+
+[dependencies]
